@@ -1,6 +1,3 @@
-Certainly, Olu. Here's an even more detailed version of the README.md for your Vite Starter Template:
-
----
 
 # Vite Starter Template: Unveiling the Power of Vite 🌟🛠
 
