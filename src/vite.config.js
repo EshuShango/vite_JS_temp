@@ -16,16 +16,16 @@ export default defineConfig({
   envDir: "env",
   server: {
     // opens the browser automatically
-    open: "index.html",
-    port: 3000,
+    open: "index.js",
+    port: 4000,
     // if you want to restrict the server to a specific ip address
     strictPort: true,
   },
-  preview: {
-    port: 8080,
-    strictPort: true,
-  },
-  css: {
-    devSourcemap: true,
-  },
+  // preview: {
+  //   port: 8080,
+  //   strictPort: true,
+  // },
+  // css: {
+  //   devSourcemap: true,
+  // },
 });
